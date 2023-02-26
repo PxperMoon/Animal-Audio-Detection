@@ -1,0 +1,28 @@
+body {
+    font-family: 'Estonia', cursive;
+    background-size:cover;
+    background-position: center;
+    background-repeat: repeat;
+}
+
+.heading {
+    font-family: 'Estonia', cursive;
+    background-color: rgb(130, 174, 214);
+    color:white;
+    text-decoration-color: aliceblue;
+}
+
+#start {
+    font-family: 'Estonia', cursive;
+    background-color: rgb(130, 174, 214);
+    color:white;
+    text-decoration-color: aliceblue;
+}
+
+.main_div {
+    font-family:fantasy;
+    background-color: rgb(130, 174, 214);
+    color:white;
+    text-decoration-color: aliceblue;
+    margin-top:25px;
+}
